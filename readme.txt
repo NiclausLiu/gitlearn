@@ -3,3 +3,4 @@ git is free software distributed under the GPL.
 git is a mutable index called stage.
 create a new track
 test second modify
+stupid boos
